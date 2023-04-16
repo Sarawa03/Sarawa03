@@ -9,7 +9,7 @@
 
 - 📩 How to reach me **saraying03sb@gmail.com**
 
-- 💬 More about me [link](https://about-sara.carrd.co/)
+- 💬 More about me [here](https://about-sara.carrd.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
