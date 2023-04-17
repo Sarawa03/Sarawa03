@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarawa03&label=Profile%20views&color=0e75b6&style=flat" alt="sarawa03" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/zmSFP5v.gif">
 
-- 🎓 I’m studying **Cross-platform application development**
+- 🎓 I’m currently studying **Cross-platform application development**
 
 - 👥 I’m doing my internship at [Accenture](https://www.accenture.com/us-en)
 
 - 📩 How to reach me **saraying03sb@gmail.com**
 
-- 💬 More about me [here](https://about-sara.carrd.co/)
+- 💬 More about me [link](https://about-sara.carrd.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
