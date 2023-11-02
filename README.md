@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarawa03&label=Profile%20views&color=0e75b6&style=flat" alt="sarawa03" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/zmSFP5v.gif">
 
-- 🎓 I’m currently studying **Cross-platform application development**
+- 🎓 I’m currently studying **Videogame Development with Unreal Engine and Unity**
 
-- 👥 I’m doing my internship at [Accenture](https://www.accenture.com/us-en)
+- 👥 I’m working at [Accenture](https://www.accenture.com/us-en)
 
 - 📩 How to reach me **saraying03sb@gmail.com**
 
